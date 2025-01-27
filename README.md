@@ -23,4 +23,4 @@ Putting togther a consistent a generic list of rules to provide LLMs when using 
 17. **Avoid Premature Optimization**: Focus on clear and functional code first. Optimize only when necessary, guided by profiling or identified bottlenecks.
 18. **Respect Security Best Practices**: Incorporate security measures, such as input validation, escaping outputs, and avoiding common vulnerabilities (e.g., SQL injection, XSS).
 19. **Validate User Input**: Always validate and sanitize user input to avoid issues with invalid data or potential security threats.
-20. **Out of Date Knwledge**: Assume that your knowledge of the codebase is out of date and seek clarification from the team or documentation.
+20. **Out of Date Knowledge**: Assume that your knowledge of the codebase is out of date and seek clarification from the team or documentation.
