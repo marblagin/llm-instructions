@@ -11,7 +11,7 @@ Putting togther a consistent a generic list of rules to provide LLMs when using 
 7. **Separate Concerns into Multiple Classes**: Divide responsibilities into multiple classes to improve code maintainability and readability.
 8. **Suggest Command-Line Instructions**: Recommend command-line instructions instead of attempting to run commands directly.
 9. **Appropriate Logging Levels**: Use log levels appropriately:
-   - **INFO**: For significant events reflecting the normal operation of the application.
+   - **INFO**: For significant high level events reflecting the normal operation of the application.
    - **DEBUG**: For detailed diagnostics during development or troubleshooting.
 10. **Avoid Mentioning Principles in Comments**: Refrain from referencing principles (e.g., SOLID or KISS) directly in comments or line descriptions.
 11. **Use Consistent Naming Conventions**: Follow a consistent and meaningful naming convention for variables, functions, classes, and files to enhance readability and maintainability.
